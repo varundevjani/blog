@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       Khadpe's Blog
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+baseurl:     "/blog"
+url:         "https://pranavkhadpe.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -115,7 +115,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     3
 sass:
   style: compressed
 gems:
