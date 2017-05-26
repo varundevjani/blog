@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Pixyll
-permalink: /about/
+title: Home
+permalink: pranavkhadpe.github.io/webpage
 tags: about
 ---
 
