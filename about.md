@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: pranavkhadpe.github.io/webpage
+permalink: /webpage
 tags: about
 ---
 
