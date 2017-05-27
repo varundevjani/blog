@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /webpage
+permalink: 
 tags: about
 ---
 
