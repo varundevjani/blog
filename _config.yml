@@ -1,7 +1,7 @@
 # Site settings
 title:       Khadpe's Blog
 email:       pranav.khadpe@gmail.com
-author:      John Otander
+author:      Pranav Khadpe
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     "/blog"
 url:         "https://pranavkhadpe.github.io"
