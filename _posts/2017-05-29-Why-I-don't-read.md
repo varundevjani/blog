@@ -8,21 +8,21 @@ categories: realisation
 
 I have never been an avid reader. My parents made several attempts to inculcate the habit 
 but failed miserably every time. Back when I was in the third standard a few of my friends decided to become
-members at a nearby library so I did too. And while they made their way through a fair share of books, I found it 
+members at a library nearby so I did too. And while they made their way through a fair share of books, I found it 
 hard to get past books with more than a hundred pages or so. But the collection of books was fairly large and I found a few books that catered to this limitation of mine. The library was divided into different sections having books 
 catering to readers of different maturity. While my friends progressed onto the _Young Adults_ section, I found it hard to let 
 go of the _Nancy Drew Notebooks_[^1], I had grown fond of. Every book in that series was under 150 pages(my personal favourite being _Recipe for Trouble_). 
 
-![book](https://images-na.ssl-images-amazon.com/images/I/51SC94A2D6L._SX317_BO1,204,203,200_.jpg)
+_![book](https://images-na.ssl-images-amazon.com/images/I/51SC94A2D6L._SX317_BO1,204,203,200_.jpg)_
 
 In hindsight, that probably taught me how to be 'to the point' and well within 'word limits' but left me lacking in verbosity.
 Soon after though, I stopped reading that as well when I realised that my T.V. was a better entertainer. So while my friends were exchanging copies of _Agatha Christie_, _Twilight_ and what not, I sat busy watching re-runs of _The Simpsons_. It wasn't until things had gotten beyond repair that I began to introspect.
 
-The first thing that came to mind was-_"Hey! I am pretty decent at studying which too involves reading a lot of text. How, then, am I able to do that?"_
+The first thing that came to mind was,_"Hey! I am pretty decent at studying which too involves reading a lot of text. How, then, am I able to do that?"_
 Obviously it's because reading is optional but there's no escaping education. But jokes apart, the more I thought about it, the more I realised how different the two activities were.
 
-* Firstly, the process of studying involves _revision_
-* Oranges
+* Firstly, the process of studying involves _revision_. So we keep reading the same things over and over before we're evaluated. This leads to a recklessness of some sorts when it comes to reading texts because you know that even if you miss something important you'll probably catch it on your next pass(and you usually wiil). Unfortunately, this doesn't apply to novels and as I progress through one, I subconsciously use the same method as I do while studying. Naturally, I'm lost after a while.
+* Secondly, 
 * Potatoes
 * Milk
 
