@@ -31,131 +31,21 @@ Let me illustrate with a few lines from _The Fault in Our Stars_ (how and why I 
 
 <blockquote>
   <p>
-     I am not a mathematician, but I know this. There is an infinite between 0 and 1. There's .1 and .12 and .112 and an infinite collection of others. Of course there is a bigger infinite set of numbers between 0 and 2, or between 0 and a million. Some infinities are bigger than other infinities. A writer we used to like taught us that.
+     I am not a mathematician, but I know this. There is an infinity between 0 and 1. There's .1 and .12 and .112 and an infinite collection of others. Of course there is a bigger infinite set of numbers between 0 and 2, or between 0 and a million. Some infinities are bigger than other infinities. A writer we used to like taught us that.
   </p>
   <footer><cite title="Hazel's eulogy to Augustus">Hazel's eulogy to Augustus</cite></footer>
 </blockquote>
 
 Now while this whole monologue probably got you teary eyed, all I could think was:
 _"Dear Hazel, 
-Its true you're no mathematician. Otherwise, you would have known that the set of reals between 0 and 1 is as big as the set of reals between 0 and 2. Take any real between 0 and 2 and divide it by 2. You'd have a corresponding real between 0 and 1. That's a one-one mapping. Cantor himself proved both those infinities to be equal. And while some infinities are larger than others, you chose the wrong example." 
+Its true you're no mathematician. Otherwise, you would have known that the set of reals between 0 and 1 is as big as the set of reals between 0 and 2. Take any real between 0 and 2 and divide it by 2. You'd have a corresponding real between 0 and 1. That's a one-one mapping. Cantor himself proved both those infinities to be equal. And while some infinities are larger than others, you chose the wrong example."_
 
-### Code, with syntax highlighting
+This article can't be complete without blaming the internet. Escpecially the fact that a lot of literature on the web is organised as lists, includes headings and summaries. This has reduces the concentration span. The presence of TL;DRs has also greatly reduced efforts gone into reading articles.
 
-Here's an example of some ruby code with line anchors.
+So while I am probably missing out on an entire world due to this weakness of mine, I'm doind just fine without it.
 
-{% highlight ruby lineanchors %}
-# The most awesome of classes
-class Awesome < ActiveRecord::Base
-  include EvenMoreAwesome
-
-  validates_presence_of :something
-  validates :email, email_format: true
-
-  def initialize(email, name = nil)
-    self.email = email
-    self.name = name
-    self.favorite_number = 12
-    puts 'created awesomeness'
-  end
-
-  def email_format
-    email =~ /\S+@\S+\.\S+/
-  end
-end
-{% endhighlight %}
-
-Here's some CSS:
-
-{% highlight css %}
-.foobar {
-  /* Named colors rule */
-  color: tomato;
-}
-{% endhighlight %}
-
-Here's some JavaScript:
-
-{% highlight js %}
-var isPresent = require('is-present')
-
-module.exports = function doStuff(things) {
-  if (isPresent(things)) {
-    doOtherStuff(things)
-  }
-}
-{% endhighlight %}
-
-Here's some HTML:
-
-{% highlight html %}
-<div class="m0 p0 bg-blue white">
-  <h3 class="h1">Hello, world!</h3>
-</div>
-{% endhighlight %}
-
-# Headings!
-
-They're responsive, and well-proportioned (in `padding`, `line-height`, `margin`, and `font-size`).
-They also heavily rely on the awesome utility, [BASSCSS](http://www.basscss.com/).
-
-##### They draw the perfect amount of attention
-
-This allows your content to have the proper informational and contextual hierarchy. Yay.
-
-### There are lists, too
-
-  * Apples
-  * Oranges
-  * Potatoes
-  * Milk
-
-  1. Mow the lawn
-  2. Feed the dog
-  3. Dance
-
-### Images look great, too
-
-![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
-
-_![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)_
-
-
-### There are also pretty colors
-
-Also the result of [BASSCSS](http://www.basscss.com/), you can <span class="bg-dark-gray white">highlight</span> certain components
-of a <span class="red">post</span> <span class="mid-gray">with</span> <span class="green">CSS</span> <span class="orange">classes</span>.
-
-I don't recommend using blue, though. It looks like a <span class="blue">link</span>.
-
-### Footnotes!
-
-Markdown footnotes are supported, and they look great! Simply put e.g. `[^1]` where you want the footnote to appear,[^1] and then add
-the reference at the end of your markdown.
-
-### Stylish blockquotes included
-
-You can use the markdown quote syntax, `>` for simple quotes.
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.
-
-However, you need to inject html if you'd like a citation footer. I will be working on a way to
-hopefully sidestep this inconvenience.
-
-<blockquote>
-  <p>
-    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
-  </p>
-  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
-</blockquote>
-
-### There's more being added all the time
-
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to request,
-or add, features.
-
-Happy writing.
+TL;DR - It would be quite ironic to have a TL;DR in here, so go read the post :D
 
 ---
 
-[^1]: Important information that may distract from the main text can go in footnotes.
+[^1]: [Nancy Drew Notebooks](https://en.wikipedia.org/wiki/Nancy_Drew_Notebooks).
