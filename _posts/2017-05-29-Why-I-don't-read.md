@@ -37,12 +37,15 @@ Let me illustrate with a few lines from _The Fault in Our Stars_ (how and why I 
 </blockquote>
 
 Now while this whole monologue probably got you teary eyed, all I could think was:
+
 _"Dear Hazel, 
 Its true you're no mathematician. Otherwise, you would have known that the set of reals between 0 and 1 is as big as the set of reals between 0 and 2. Take any real between 0 and 2 and divide it by 2. You'd have a corresponding real between 0 and 1. That's a one-one mapping. Cantor himself proved both those infinities to be equal. And while some infinities are larger than others, you chose the wrong example."_
 
-This article can't be complete without blaming the internet. Escpecially the fact that a lot of literature on the web is organised as lists, includes headings and summaries. This has reduces the concentration span. The presence of TL;DRs has also greatly reduced efforts gone into reading articles.
+Not meaning to sound like a snob but it is what it is.
 
-So while I am probably missing out on an entire world due to this weakness of mine, I'm doind just fine without it.
+Lastly, this article can't be complete without blaming the internet. The fact that a lot of literature on the web is organised as lists, includes headings and has summaries, has reduced my attention span a lot. The presence of TL;DRs has also greatly reduced efforts gone into reading articles.
+
+So while I am probably missing out on an entire world due to this weakness of mine, I'm doind just fine without it. And yes, I abound in admiration for those who are avid readers, simply because I find it hard.
 
 TL;DR - It would be quite ironic to have a TL;DR in here, so go read the post :D
 
