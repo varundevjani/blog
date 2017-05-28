@@ -45,5 +45,5 @@ Broadly all the posts on this blog can be classified into [Useless](https://pran
 
 ---
 
-[^1]: Important information that may distract from the main text can go in footnotes.
-[^2]: lol.
+[^1]: [THE UNSUCCESSFUL SELF-TREATMENT OF A CASE OF “WRITER'S BLOCK”](http://onlinelibrary.wiley.com/doi/10.1901/jaba.1974.7-497a/abstract)
+[^2]: [Ten Brilliant ways to open your blog post.](https://www.michaeldpollock.com/open-your-blog-post/)
