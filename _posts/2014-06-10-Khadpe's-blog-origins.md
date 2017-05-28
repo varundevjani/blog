@@ -8,14 +8,33 @@ categories: narrative
 
 It will please some of you to know that I almost titled this article 'The unsuccessful self-treatment of a case of "writer's block"'. It will please the rest of you to know that I realized later that there already exists an academic article of the same name[^1] and so begrudgingly decided against it.
 
-The current title was crafted after having a look at some data driven insights on how to maximise my readership[^2]. Apparently,  headlines between 8–12 words in length got the most Twitter shares on average. As for Facebook, headlines with either 12 or 14 words received the most Likes.
+The current title was crafted after having a look at some data driven insights on how to maximise my readership[^2] . Apparently,  headlines between 8–12 words in length got the most Twitter shares on average. As for Facebook, headlines with either 12 or 14 words received the most Likes.
 
 ![data](https://pranavkhadpe.github.io/blog/images/headline-length-vs-social-shares-2.png)
 
+And so I came up with a title exactly 13 characters long. As far as the grand opening of the article is concerned, that too was devised with the help of a Google search on how to start blog posts. I did consider starting out with a question and at this point I'd like to mention some candidate questions that didn't quite get so lucky:
 
-### Code, with syntax highlighting
+<blockquote>
+  <p>
+    How’d you like to learn how to pull your audience into your content by taking advantage of an innate human behavior?
+  </p>
+  <footer><cite title="Not Clickbait">Not Clickbait</cite></footer>
+</blockquote>
 
-Here's an example of some ruby code with line anchors.
+or
+
+<blockquote>
+  <p>
+    What do people say about you when you’re not around?
+  </p>
+  <footer><cite title="Oh but do you really care?">Oh but do you really care?</cite></footer>
+</blockquote>
+
+All the same this article shall remain true to its title.
+
+### What to expect:
+
+Posts on this blog will probably not be very frequent. Something I realised while writing this post as I was exposed to the sheer difficulty of putting forth my thoughts. As a result of this you will not find me rambling on about the tedium of my existence or talking about the day to day occurences in my life. What you can expect though is satire, dark humour, rants, opinions and realisations.
 
 {% highlight ruby lineanchors %}
 # The most awesome of classes
@@ -132,3 +151,4 @@ Happy writing.
 ---
 
 [^1]: Important information that may distract from the main text can go in footnotes.
+[^2]: lol.
