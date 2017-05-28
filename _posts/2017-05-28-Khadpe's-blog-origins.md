@@ -2,7 +2,7 @@
 layout:     post
 title:      An Origin Story
 date:       2017-05-28 18:31:19
-summary:    new beginnings.
+summary:    new beginnings.[(more)](https://pranavkhadpe.github.io/blog)
 categories: narrative
 ---
 
