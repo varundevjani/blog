@@ -25,7 +25,7 @@ Obviously it's because reading is optional but there's no escaping education. Bu
 
 * Secondly, while studying, _not everything in the text is important_. Back in school, in a lot of subjects, we actually had teachers have us mark the important paragraphs in the text and a quick glance through this highlighted text comprised 'studying'. As I got older I trained myself to spot the 'important stuff' myself. This training made reading novels harder as I was unable to appreciate the interlinking of words or even sentences for that matter, while looking for 'important stuff'. 
 
-So while we've know established that my methodology of studying is partly to blame, STEM education itself was making it harder. Since education in Science involves questioning what you're being taught and what you're reading I would often find myself questioning what was happening in novels. I'd question the character's feelings, their decisions, facts, which ultimately left me miserable.
+So while we've now established that my methodology of studying is partly to blame, STEM education itself was making it harder. Since education in Science involves questioning what you're being taught and what you're reading I would often find myself questioning what was happening in novels. I'd question the character's feelings, their decisions, facts, which ultimately left me miserable.
 
 Let me illustrate with a few lines from _The Fault in Our Stars_ (how and why I was reading that book can be left aside for now).
 
