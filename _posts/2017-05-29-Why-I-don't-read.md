@@ -10,12 +10,13 @@ I have never been an avid reader. My parents made several attempts to inculcate 
 but failed miserably every time. Back when I was in the third standard a few of my friends decided to become
 members at a nearby library so I did too. And while they made their way through a fair share of books, I found it 
 hard to get past books with more than a hundred pages or so. But the collection of books was fairly large and I found a few books that catered to this limitation of mine. The library was divided into different sections having books 
-catering to readers of different maturity. While my friends progressed onto the 'Young Adults' section, I found it hard to let 
-go of the 'Nancy Drew Notebooks'[^1], I had grown fond of. Every book in that series was under 150 pages(my personal favourite being recipe for trouble). 
+catering to readers of different maturity. While my friends progressed onto the _Young Adults_ section, I found it hard to let 
+go of the _Nancy Drew Notebooks_[^1], I had grown fond of. Every book in that series was under 150 pages(my personal favourite being _Recipe for Trouble_). 
 
 ![book](https://images-na.ssl-images-amazon.com/images/I/51SC94A2D6L._SX317_BO1,204,203,200_.jpg)
 
 In hindsight, that probably taught me how to be 'to the point' and well within 'word limits' but left me lacking in verbosity.
+Soon after though, I stopped reading that as well when I realised that my T.V. was a better entertainer. So while my friends were exchanging copies of _Agatha Christie_, _Twilight_ and what not, I sat busy watching re-runs of _The Simpsons_.
 
 
 
