@@ -2,7 +2,7 @@
 title:       Khadpe's Blog
 email:       pranav.khadpe@gmail.com
 author:      Pranav Khadpe
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "A qualitative analysis of an average life."
 baseurl:     "/blog"
 url:         "https://pranavkhadpe.github.io"
 date_format: "%b %-d, %Y"
