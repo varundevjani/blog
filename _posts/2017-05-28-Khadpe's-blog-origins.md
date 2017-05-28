@@ -38,7 +38,7 @@ Posts on this blog will probably not be very frequent. Something I realised whil
 
 ### Organising the posts:
 
-Broadly all the posts on this blog can be classified into [Useless](https://pranavkhadpe.github.io/blog) and [Useful](https://www.pranavkhadpe.github.io/blog/_includes/error.html) posts that I have separated out for your convenience. Feel free to read whatever pleases you.
+Broadly all the posts on this blog can be classified into [Useless](https://pranavkhadpe.github.io/blog) and [Useful](https://www.pranavkhadpe.github.io/blog/error.html) posts that I have separated out for your convenience. Feel free to read whatever pleases you.
 
 
 ### Cheers!
