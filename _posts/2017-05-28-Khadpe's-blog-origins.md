@@ -34,7 +34,7 @@ All the same this article shall remain true to its title.
 
 ### What to expect:
 
-Posts on this blog will probably not be very frequent. Something I realised while writing this post as I was exposed to the sheer difficulty of putting forth my thoughts. As a result of this you will not find me rambling on about the tedium of my existence or talking about the day to day occurences in my life. What you can expect though is satire, dark humour, rants, opinions and realisations.
+Posts on this blog will probably not be very frequent. Something I realised while writing this post as I was exposed to the sheer difficulty of putting to words, my thoughts. As a result of this you will not find me rambling on about the tedium of my existence or talking about the day to day occurences in my life. What you can expect though is satire, dark humour, rants, opinions and realisations.
 
 ### Organising the posts:
 
