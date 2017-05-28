@@ -16,9 +16,15 @@ go of the _Nancy Drew Notebooks_[^1], I had grown fond of. Every book in that se
 ![book](https://images-na.ssl-images-amazon.com/images/I/51SC94A2D6L._SX317_BO1,204,203,200_.jpg)
 
 In hindsight, that probably taught me how to be 'to the point' and well within 'word limits' but left me lacking in verbosity.
-Soon after though, I stopped reading that as well when I realised that my T.V. was a better entertainer. So while my friends were exchanging copies of _Agatha Christie_, _Twilight_ and what not, I sat busy watching re-runs of _The Simpsons_.
+Soon after though, I stopped reading that as well when I realised that my T.V. was a better entertainer. So while my friends were exchanging copies of _Agatha Christie_, _Twilight_ and what not, I sat busy watching re-runs of _The Simpsons_. It wasn't until things had gotten beyond repair that I began to introspect.
 
+The first thing that came to mind was-_"Hey! I am pretty decent at studying which too involves reading a lot of text. How, then, am I able to do that?"_
+Obviously it's because reading is optional but there's no escaping education. But jokes apart, the more I thought about it, the more I realised how different the two activities were.
 
+* Firstly, the process of studying involves _revision_
+* Oranges
+* Potatoes
+* Milk
 
 All links are easy to [locate and discern](#), yet don't detract from the [harmony
 of a paragraph](#). The _same_ goes for italics and __bold__ elements. Even the the strikeout
