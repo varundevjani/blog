@@ -7,7 +7,17 @@ categories: realisation
 ---
 
 I have never been an avid reader. My parents made several attempts to inculcate the habit 
-but failed miserably every time. Back when I was 
+but failed miserably every time. Back when I was in the third standard a few of my friends decided to become
+members at a nearby library so I did too. And while they made their way through a fair share of books, I found it 
+hard to get past books with more than a hundred pages or so. But the collection of books was fairly large and I found a few books that catered to this limitation of mine. The library was divided into different sections having books 
+catering to readers of different maturity. While my friends progressed onto the 'Young Adults' section, I found it hard to let 
+go of the 'Nancy Drew Notebooks'[^1], I had grown fond of. Every book in that series was under 150 pages(my personal favourite being recipe for trouble). 
+
+![book](https://images-na.ssl-images-amazon.com/images/I/51SC94A2D6L._SX317_BO1,204,203,200_.jpg)
+
+In hindsight, that probably taught me how to be 'to the point' and well within 'word limits' but left me lacking in verbosity.
+
+
 
 All links are easy to [locate and discern](#), yet don't detract from the [harmony
 of a paragraph](#). The _same_ goes for italics and __bold__ elements. Even the the strikeout
