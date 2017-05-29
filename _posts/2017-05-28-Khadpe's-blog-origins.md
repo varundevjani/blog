@@ -12,7 +12,7 @@ The current title was crafted after having a look at some data driven insights o
 
 ![data](https://pranavkhadpe.github.io/blog/images/headline-length-vs-social-shares-2.png)
 
-And so I came up with a title exactly 13 characters long. As far as the grand opening of the article is concerned, that too was devised with the help of a Google search on how to start blog posts. I did consider starting out with a question and at this point I'd like to mention some candidate questions that didn't quite get so lucky:
+And so I came up with a title exactly 3 words long because why maximise readership? Great attitude to display in my first blog post right? As far as the grand opening of the article is concerned, that too was devised with the help of a Google search on how to start blog posts. I did consider starting out with a question and at this point I'd like to mention some candidate questions that didn't quite get so lucky:
 
 <blockquote>
   <p>
