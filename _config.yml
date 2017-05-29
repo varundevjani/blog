@@ -44,7 +44,7 @@ txtpen_sitename:
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
 facebook_comments: true
-facebook_appid:
+facebook_appid: 163259587544867
 facebook_comments_number: 10
 
 # Social icons
