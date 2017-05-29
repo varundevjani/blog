@@ -39,7 +39,7 @@ Let me illustrate with a few lines from _The Fault in Our Stars_ (how and why I 
 Now while this whole monologue probably got you teary eyed, all I could think was:
 
 _"Dear Hazel, 
-Its true you're no mathematician. Otherwise, you would have known that the set of reals between 0 and 1 is as big as the set of reals between 0 and 2. Take any real between 0 and 2 and divide it by 2. You'd have a corresponding real between 0 and 1. That's a one-one mapping. Cantor himself proved both those infinities to be equal. And while some infinities are larger than others, you chose the wrong example."_
+Its true you're no mathematician. Otherwise, you would have known that the set of reals between 0 and 1 is as big as the set of reals between 0 and 2. Take any real between 0 and 2 and divide it by 2. You'd have a corresponding real between 0 and 1. That's a one-one mapping. Cantor himself proved both those infinities to be equal. And while some infinities are larger than others, you chose the wrong example"_.
  
 Though this is an extremely exaggerated version of what actually goes on in my head, it is what it is.
 
