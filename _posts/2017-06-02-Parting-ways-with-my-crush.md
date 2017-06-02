@@ -27,12 +27,13 @@ Now, the only reason Mahabaleshwar is on the map is because of strawberries. Tha
 
 So towards the end of our trip we paid a visit to a few strawberry farms and every farm we visited, we left with atleast a box full of strawberries. But then my mother decided to go the extra mile. She decided that jam would be appreciated by folks at home. Again nobody opposed because my mother doesn't appreciate opposition( no mother does).
 
-We walked into _Mapro Garden_ and that's when I first saw her. She sat there quietly not attracting unwanted attention but receiving as much as was required. I knew the moment I saw her that we were meant to go home together.
+We walked into _Mapro Garden_ and that's when I first saw her. She sat there quietly. Not attracting unwanted attention but receiving as much as was required. I knew the moment I saw her that we were meant to go home together.
 
 ![desk](http://www.hindmarkets.in/media/catalog/product/cache/12/image/600x600/9df78eab33525d08d6e5fb8d27136e95/1/9/1969_1.jpg)
 
-### Code, with syntax highlighting
-Here's an example of some ruby code with line anchors.
+Before I knew it I had convinced my mother to let me get one and funnily enough, as much as she didn't like opposition, she didn't like to oppose my demands. And so I left that place, my crush in my arms. It wasn't until later that night, that I realised it. Since it was a short trip, we were travelling light and had not felt the need to pay for check-in baggage as part of the ticket. However, fluids in excess of 250 ml aren't allowed in handbags. That's when I realised for the first time that we couldn't be together. It didn't make sense to pay significantly more and check-in a bag just to get my crush home. I didn't mention this to my mother, she wouldn't be impressed.
+
+Finally the day did arrive. 
 
 {% highlight ruby lineanchors %}
 # The most awesome of classes
