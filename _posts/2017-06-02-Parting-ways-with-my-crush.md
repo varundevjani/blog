@@ -2,19 +2,23 @@
 layout:     post
 title:      Parting ways with my crush.
 date:       2017-06-02 12:31:19
-summary:    The story of an airport .
+summary:    The story of an airport goodbye.
 categories: jekyll pixyll
 ---
 
-From the moment we went into the airport, we dreaded the Airport Goodbye. Each time we knew that, in just a short while, we’d get our final hug, which would turn into a desperate “oh-please-don’t-go” clinging-together thing.
+From the moment we went into the airport, we dreaded the Airport Goodbye. In just a short while, we’d get our final hug, which would turn into a desperate “oh-please-don’t-go” clinging-together thing.
 
 Then there was that horrible moment where one of us had to stay, and the other walked away. Walk, walk, walk, look back… walk… look back… smile sadly… wave… and disappear from sight.
 
 We’d both feel empty, and suddenly so alone. The place is full of people – but, just at that moment, no one feels as lonely as the person who has just said goodbye to the one they love. People are rushing around and talking, and you can stand there with tears rolling down your face, and no one cares. Or perhaps, even if they do care, they know there’s nothing they could possibly do to help, and it feels like the kindest thing just to walk past.
 
-There was always that moment where we’d allow ourselves to imagine that there might be a possibility that the one we love would Suddenly Come Back. Maybe the flight would be cancelled and everyone would return to the departure lounge. Or maybe someone official-looking would suddenly appear and say, “No – you guys are supposed to be TOGETHER, not going to different places! Wait here for a moment – we’re bringing your partner back to stay with you forever.”
+There was that moment where we’d allow ourselves to imagine that there might be a possibility that the one we love would Suddenly Come Back. Maybe the flight would be cancelled and everyone would return to the departure lounge. Or maybe someone official-looking would suddenly appear and say, “No – you guys are supposed to be TOGETHER, not going to different places! Wait here for a moment – we’re bringing your partner back to stay with you forever.”
 
 But it didn’t happen, and eventually there was nothing to do but give up and go home.
+
+# Circa 2017
+
+My mother loved planning family vacations and so aware of the fact that I'd be home from college, in winter, she decided it might not be a bad idea to go to Mahabaleshwar via Pune. I would have opposed the idea if I could, but I couldn't because my mother doesn't appreciate opposition( No mother does).
 
 ### Code, with syntax highlighting
 
