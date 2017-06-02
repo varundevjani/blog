@@ -17,7 +17,7 @@ There was that moment where we’d allow ourselves to imagine that there might b
 But it didn’t happen, and eventually there was nothing to do but give up and go home.
 
 
-![desk](https://http://larryandcarla.com/wordpress/wp-content/uploads/2015/02/I-miss-you-already-watermarked.jpg)
+![desk](http://larryandcarla.com/wordpress/wp-content/uploads/2015/02/I-miss-you-already-watermarked.jpg)
 
 ### Circa 2017
 
