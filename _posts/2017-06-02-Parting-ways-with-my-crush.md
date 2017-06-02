@@ -21,10 +21,17 @@ But it didn’t happen, and eventually there was nothing to do but give up and g
 
 ### Circa 2017
 
-My mother loved planning family vacations and so aware of the fact that I'd be home from college, in winter, she decided it might not be a bad idea to go to Mahabaleshwar via Pune. I would have opposed the idea if I could, but I couldn't because my mother doesn't appreciate opposition( No mother does).
+My mother loved planning family vacations and so aware of the fact that I'd be home from college, in winter, she decided it might not be a bad idea to go to Mahabaleshwar via Pune. I would have opposed the idea if I could, but I couldn't because my mother doesn't appreciate opposition( no mother does). So we did go to Mahabaleshwar.
+
+Now, the only reason Mahabaleshwar is on the map is because of strawberries. That's it. There is nothing more to Mahabaleshwar than strawberries. If you came from Goa or Mumbai, then you might appreciate the cool climate too. But nobody in their right mind would travel that much to experience nature mimic something your air conditioning system could do seamlessly. So it goes without saying that friends and family back home expect strawberries to make their way to them. My mother had accounted for all of that.
+
+So towards the end of our trip we paid a visit to a few strawberry farms and every farm we visited, we left with atleast a box full of strawberries. But then my mother decided to go the extra mile. She decided that jam would be appreciated by folks at home. Again nobody opposed because my mother doesn't appreciate opposition( no mother does).
+
+We walked into _Mapro Garden_ and that's when I first saw her. She sat there quietly not attracting unwanted attention but receiving as much as was required. I knew the moment I saw her that we were meant to go home together.
+
+![desk](http://www.hindmarkets.in/media/catalog/product/cache/12/image/600x600/9df78eab33525d08d6e5fb8d27136e95/1/9/1969_1.jpg)
 
 ### Code, with syntax highlighting
-
 Here's an example of some ruby code with line anchors.
 
 {% highlight ruby lineanchors %}
