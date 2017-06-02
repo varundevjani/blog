@@ -36,3 +36,5 @@ Before I knew it I had convinced my mother to let me get one and funnily enough,
 Finally the day did arrive. And when my bag passed through the security scan, the guy invited me over to discuss the prospects. I had two options either empty the bottle and carry her along or leave her behind. I chose to hand her over to one of the sweepers nearby so that he could give my crush the love she deserved. That was the end of our love story. We parted ways without shedding tears. I didn't know I was that strong. Our story was a short one definitely but one I'll remember for a lifetime.
 
 Three days later, I purchased the same crush from a store nearby. Cost me fifty rupees extra, but hey, anything for my crush!
+
+PS: I have upped my clickbait game since I began this blog.
