@@ -16,7 +16,10 @@ There was that moment where we’d allow ourselves to imagine that there might b
 
 But it didn’t happen, and eventually there was nothing to do but give up and go home.
 
-# Circa 2017
+
+![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
+
+### Circa 2017
 
 My mother loved planning family vacations and so aware of the fact that I'd be home from college, in winter, she decided it might not be a bad idea to go to Mahabaleshwar via Pune. I would have opposed the idea if I could, but I couldn't because my mother doesn't appreciate opposition( No mother does).
 
