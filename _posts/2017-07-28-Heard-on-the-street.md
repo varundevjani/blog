@@ -79,6 +79,7 @@ This is a collection of some of the wisest words never uttered in KGP. Feel free
   <p>
     B.R.Ambedkar Hall of Residence should be rightly abbreviated as B.R.A. and not B.R.H.
   </p>
+  <footer><cite title="Pranav Khadpe">Pranav Khadpe</cite></footer>
 </blockquote>  
 
 # 10
