@@ -6,7 +6,7 @@ summary:    An anthology of arbitrary things, not heard on the streets of KGP.
 categories: jekyll pixyll
 ---
 
-*Disclaimer: This article contains some amount of Hinglish for reasons obvious to anyone aware of the demographic of KGP.
+_Disclaimer: This article contains some amount of Hinglish for reasons obvious to anyone aware of the demographic of KGP._
 
 This is a collection of some of the wisest words never uttered in KGP. Feel free to quote them where and when you please.
 
