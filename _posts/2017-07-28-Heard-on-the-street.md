@@ -37,7 +37,7 @@ This is a collection of some of the wisest words never uttered in KGP. Feel free
 # 4
 <blockquote>
   <p>
-    If you turn up for a class sick I do not need a medical certificate to give you attendance for leaving half way because I am aware that B.C. Roy Hospital will issue you a certificate based on your word which is the same as what you are offering me and does not substantiate your claims any further anyway.
+    If you turn up for a class, sick, I do not need a medical certificate to give you attendance for leaving half way because I am aware that B.C. Roy Hospital will issue you a certificate based on your word, which is the same as what you are offering me and does not substantiate your claims any further.
   </p>
   <footer><cite title="NSO Volleyball in-charge">NSO Volleyball in-charge</cite></footer>
 </blockquote>
