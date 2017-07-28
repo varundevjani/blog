@@ -61,7 +61,7 @@ This is a collection of some of the wisest words never uttered in KGP. Feel free
 # 7
 <blockquote>
   <p>
-    Let us reveal the grading method to be followed for this course, at the beginning of the semester. We should alsp clarfiy what, exactly, we mean by the terms 'Relative Grading' and 'Modified Absolute Grading'.
+    Let us reveal the grading method to be followed for this course, at the beginning of the semester. We should also clarify, exactly, what we mean by the terms 'Relative Grading' and 'Modified Absolute Grading'.
   </p>
   <footer><cite title="Every Professor">Every Professor</cite></footer>
 </blockquote>
@@ -77,9 +77,17 @@ This is a collection of some of the wisest words never uttered in KGP. Feel free
 # 9
 <blockquote>
   <p>
+    B.R.Ambedkar Hall of Residence should be rightly abbreviated as B.R.A. and not B.R.H.
+  </p>
+</blockquote>  
+
+# 10
+<blockquote>
+  <p>
     It's time to get my shit together and focus on graduating soon.
   </p>
   <footer><cite title="Patel Hall 7th Year">Patel Hall 7th Year</cite></footer>
 </blockquote>
+ 
 ---
 
