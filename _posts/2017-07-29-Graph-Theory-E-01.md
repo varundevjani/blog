@@ -32,7 +32,7 @@ This Graph is inspired by Jessica Su's answer, on different types on friendships
 
 * __Level C:__ You see them sporadically, maybe once a month or once a year.
 
-![desk](https://pranavkhadpe.github.io/blog/images/Untitled-1.png)
+![desk](https://pranavkhadpe.github.io/blog/images/Untitled-2.png)
 
 ### The Semester Saga.
 
