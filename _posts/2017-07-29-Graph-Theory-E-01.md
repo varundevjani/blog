@@ -36,7 +36,7 @@ This Graph is inspired by Jessica Su's answer, on different types on friendships
 
 ### The Semester Saga.
 
-This about how a typical Autumn Semester progresses.
+This about how a typical Autumn Semester progresses in Kharagpur.
 
 ![desk](https://pranavkhadpe.github.io/blog/images/Attendancevssyllabus.png)
 
