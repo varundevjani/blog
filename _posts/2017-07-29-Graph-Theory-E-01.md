@@ -10,7 +10,7 @@ This is the first post in this series.
 
 ### 2-axis classification of my friends.
 
-This Graph is inspired by Jessica Su's answer, on different types on friendships, I cam across on Quora[^1].
+This Graph is inspired by Jessica Su's answer, on different types on friendships, I camE across on Quora[^1].
 
 ### The 1-5 axis respresents the depth of your relationship.
 
