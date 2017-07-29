@@ -3,8 +3,8 @@ title:       Khadpe's Blog
 email:       pranav.khadpe@gmail.com
 author:      Pranav Khadpe
 description: "An anthology of thoughts."
-baseurl:     ""
-url:         "https://pranavkhadpe.github.io/blog"
+baseurl:     "/blog"
+url:         "https://pranavkhadpe.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
