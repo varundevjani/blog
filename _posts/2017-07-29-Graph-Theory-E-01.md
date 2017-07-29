@@ -20,7 +20,7 @@ This Graph is inspired by Jessica Su's answer, on different types on friendships
 
 * __Level 3:__ You have a 1:1 relationship with this person. You know how this person ticks, and you know large parts of their life story. You will go out of your way to hang out with them because you value them as a person.
 
-* __Level 4:__ You have a 1:1 relationship with this person. You know how this person ticks, and you know large parts of their life story. You will go out of your way to hang out with them because you value them as a person.
+* __Level 4:__ This person is a semi-permanent fixture in your life. You have an individual relationship with this person, and they’ve been in your life for several years. This is the kind of person you would invite to your wedding, or call a “best friend.”
 
 * __Level 5:__ This is someone you would make enormous sacrifices for, like your spouse or child.
 
