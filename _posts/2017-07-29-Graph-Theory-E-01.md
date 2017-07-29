@@ -37,4 +37,4 @@ This Graph is inspired by Jessica Su's answer, on different types on friendships
 
 ---
 
-[^1]: https://www.quora.com/What-are-the-different-types-of-friendships/answer/Jessica-Su?srid=2Hof 
+[^1]: [Jessica Su's answer](https://www.quora.com/What-are-the-different-types-of-friendships/answer/Jessica-Su?srid=2Hof) 
