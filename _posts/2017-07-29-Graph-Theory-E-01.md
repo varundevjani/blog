@@ -8,7 +8,7 @@ categories: jekyll pixyll
 
 This is the first post in this series.
 
-# 2-axis classification of my friends.
+### 2-axis classification of my friends.
 
 This Graph is inspired by Jessica Su's answer, on different types on friendships, I cam across on Quora[^1].
 
@@ -34,6 +34,11 @@ This Graph is inspired by Jessica Su's answer, on different types on friendships
 
 ![desk](https://pranavkhadpe.github.io/blog/images/Untitled-1.png)
 
+### The Semester Saga.
+
+This about how a typical Autumn Semester progresses.
+
+![desk](https://pranavkhadpe.github.io/blog/images/Attendancevssyllabus.png)
 
 ---
 
