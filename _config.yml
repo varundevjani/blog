@@ -4,7 +4,7 @@ email:       ivarundevjani@gmail.com
 author:      Varun Devjani
 description: "An anthology of thoughts."
 baseurl:     "/blog"
-url:         "https://varundevjani.github.io/blog"
+url:         "https://varundevjani.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
