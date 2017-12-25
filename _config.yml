@@ -1,10 +1,10 @@
 # Site settings
-title:       Khadpe's Blog
-email:       pranav.khadpe@gmail.com
-author:      Pranav Khadpe
+title:       Varun's Blog
+email:       ivarundevjani@gmail.com
+author:      Varun Devjani
 description: "An anthology of thoughts."
 baseurl:     "/blog"
-url:         "https://pranavkhadpe.github.io"
+url:         "https://varundevjani.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -43,7 +43,7 @@ txtpen_sitename:
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments: true
+facebook_comments: 
 facebook_appid: 163259587544867
 facebook_comments_number: 10
 
@@ -67,10 +67,10 @@ vk_id:
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
